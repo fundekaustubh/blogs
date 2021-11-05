@@ -17,10 +17,12 @@ const DisplayBlogs = ({ blogs }) => {
         <ListGroup>
             {blogs.map(blog => (
                 <ListGroup.Item className="bg-dark text-white border-0" key={blog.id}>
-                    {blog.text.slice(0, findNthIndexOf(blog.text, ' ', 7))}...
-                    <span className="blockquote-footer text-white">
-                        <cite title="Source Title">{blog.author}</cite>
-                    </span>
+                    <a href={`/blogs/${blog.id}`} className="text-white text-decoration-none blog-link">
+                        {blog.text.slice(0, findNthIndexOf(blog.text, ' ', 7))}...
+                        <span className="blockquote-footer text-white">
+                            <cite title="Source Title">{blog.author}</cite>
+                        </span>
+                    </a>
                 </ListGroup.Item>
             )
             )}
