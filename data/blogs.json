@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "author": "Kaustubh",
+            "date": "Wed Nov 03 2021 19:44:43 GMT+0530 (India Standard Time)",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis temporibus reprehenderit, iure dicta eveniet inventore omnis eius maxime deserunt, sunt quisquam animi corrupti vitae sequi laborum debitis fugit consequuntur dolores. Aut ea labore corrupti animi tempore architecto quae rem incidunt at nisi accusamus excepturi, beatae, reiciendis, adipisci assumenda. Mollitia, officiis non perferendis nemo tempore velit expedita minus neque optio voluptates. Eum aliquid dolores ipsa sapiente velit dolorem voluptate quod? Temporibus recusandae mollitia deserunt. Inventore quam consequuntur dicta provident, reprehenderit veritatis ducimus magni voluptas dolor tempora facilis saepe error, assumenda quia. Sit in nemo recusandae provident natus illo dolore quos culpa consequuntur ipsa deserunt, laudantium magnam doloremque laborum fugiat tenetur ullam voluptate animi, voluptas cupiditate aliquam dicta aspernatur! Nesciunt, sit aliquid. Ex quod maxime quam quo nemo, magni corporis modi aperiam repudiandae iure natus, consequatur esse corrupti non ipsam dignissimos expedita dolores? Fugit voluptatum distinctio, illum officia adipisci iure id. Tempora!"
+        },
+        {
+            "id": 2,
+            "author": "Michael",
+            "date": "Wed Nov 03 2021 21:33:27 GMT+0530 (India Standard Time)",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus repudiandae voluptatem odio eaque exercitationem sed, commodi reiciendis dignissimos quasi, repellendus velit earum inventore sit. Voluptatibus aliquid nesciunt repudiandae totam dolores? Ipsam id, aliquam laboriosam, minima quos tempora culpa mollitia sequi aperiam provident asperiores non neque nemo quae unde reprehenderit nobis ducimus sapiente eos cupiditate perspiciatis itaque enim natus. Deserunt, laborum. Inventore rem aperiam, voluptates quia, vero vel, itaque quo quaerat suscipit voluptatem quibusdam quae porro consectetur dolor facilis! Fugit id temporibus laboriosam consectetur ipsam aliquid nobis alias quasi accusantium reiciendis?"
+        },
+        {
+            "id": 3,
+            "author": "Lincoln",
+            "date": "Wed Nov 03 2021 21:33:27 GMT+0530 (India Standard Time)",
+            "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id deserunt nam earum aperiam perferendis quis distinctio blanditiis, atque, amet architecto neque debitis reprehenderit delectus, maxime doloremque facilis nostrum officia. Non? Blanditiis deleniti vel earum delectus repudiandae, asperiores neque, hic ad atque excepturi nesciunt et, consequuntur iure architecto magnam corrupti fuga voluptate repellendus corporis rem temporibus rerum inventore? At, dolorum temporibus? Natus alias mollitia impedit voluptatem rem quidem odit eveniet nesciunt voluptates, in consequatur quo doloribus reprehenderit nam commodi aspernatur cumque veritatis, aliquam maiores corrupti! Excepturi voluptatibus modi corrupti deserunt eum. Sequi, dolorem distinctio odio error nemo iste enim quo nobis iusto veritatis tempore tenetur unde, dignissimos repellendus ducimus maiores similique et quidem ipsa earum praesentium doloremque expedita? Officiis, debitis dolores!"
+        }
+    ]
+}
